@@ -1,10 +1,3 @@
-* **HW1 is now cleaner than before**: it has `hw1/HW1_tester/Q1` and `Q2`, each with `input/` and `output/`, and the reference C files are in `hw1/source_code_files`. 
-* The README should **stop mentioning old HW1 runner assumptions** like `Q1_files/`, `Q2_files/`, or `C_and_compiled_files/`, because those are no longer the live structure. 
-* The `.gitignore` is present and should be mentioned only briefly, not as a major section. 
-* Since the uploaded tree snippet clearly confirms **HW1**, but not the full current `hw2/`, `hw3/`, and `scripts/` contents in detail, the safest README is one that is precise for HW1 and keeps HW2/HW3 described at the normalized structure level without overclaiming script behavior. 
-
-Here is the revised `README.md` I’d use:
-
 ````md
 # HW Tester Archive
 
