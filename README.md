@@ -218,8 +218,3 @@ These would make the repo more polished:
 * Keep file naming consistent with the existing `qX_input...` / `qX_output...` convention.
 
 Happy grading! 🎉
-
-```
-
-This version is safer and cleaner because it only states what the current tree actually supports, instead of promising script behavior that may have changed. :contentReference[oaicite:7]{index=7}
-```
