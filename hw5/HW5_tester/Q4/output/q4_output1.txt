@@ -1,0 +1,1 @@
+9 in binary is a palindrome.

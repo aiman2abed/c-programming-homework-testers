@@ -1,0 +1,186 @@
+{
+  "q1_tests": [
+    {
+      "input": "Q1/input/q1_input1.txt",
+      "output": "Q1/output/q1_output1.txt"
+    },
+    {
+      "input": "Q1/input/q1_input2.txt",
+      "output": "Q1/output/q1_output2.txt"
+    },
+    {
+      "input": "Q1/input/q1_input3.txt",
+      "output": "Q1/output/q1_output3.txt"
+    },
+    {
+      "input": "Q1/input/q1_input4.txt",
+      "output": "Q1/output/q1_output4.txt"
+    },
+    {
+      "input": "Q1/input/q1_input5.txt",
+      "output": "Q1/output/q1_output5.txt"
+    },
+    {
+      "input": "Q1/input/q1_input6.txt",
+      "output": "Q1/output/q1_output6.txt"
+    },
+    {
+      "input": "Q1/input/q1_input7.txt",
+      "output": "Q1/output/q1_output7.txt"
+    },
+    {
+      "input": "Q1/input/q1_input8.txt",
+      "output": "Q1/output/q1_output8.txt"
+    },
+    {
+      "input": "Q1/input/q1_input9.txt",
+      "output": "Q1/output/q1_output9.txt"
+    },
+    {
+      "input": "Q1/input/q1_input_official.txt",
+      "output": "Q1/output/q1_output_official.txt"
+    }
+  ],
+  "q2_tests": [
+    {
+      "input": "Q2/input/q2_input1.txt",
+      "output": "Q2/output/q2_output1.txt"
+    },
+    {
+      "input": "Q2/input/q2_input1_official.txt",
+      "output": "Q2/output/q2_output1_official.txt"
+    },
+    {
+      "input": "Q2/input/q2_input2.txt",
+      "output": "Q2/output/q2_output2.txt"
+    },
+    {
+      "input": "Q2/input/q2_input2_official.txt",
+      "output": "Q2/output/q2_output2_official.txt"
+    },
+    {
+      "input": "Q2/input/q2_input3.txt",
+      "output": "Q2/output/q2_output3.txt"
+    },
+    {
+      "input": "Q2/input/q2_input4.txt",
+      "output": "Q2/output/q2_output4.txt"
+    },
+    {
+      "input": "Q2/input/q2_input5.txt",
+      "output": "Q2/output/q2_output5.txt"
+    },
+    {
+      "input": "Q2/input/q2_input6.txt",
+      "output": "Q2/output/q2_output6.txt"
+    },
+    {
+      "input": "Q2/input/q2_input7.txt",
+      "output": "Q2/output/q2_output7.txt"
+    },
+    {
+      "input": "Q2/input/q2_input8.txt",
+      "output": "Q2/output/q2_output8.txt"
+    },
+    {
+      "input": "Q2/input/q2_input9.txt",
+      "output": "Q2/output/q2_output9.txt"
+    }
+  ],
+  "q3_tests": [
+    {
+      "input": "Q3/input/q3_input1.txt",
+      "output": "Q3/output/q3_output1.txt"
+    },
+    {
+      "input": "Q3/input/q3_input1_official.txt",
+      "output": "Q3/output/q3_output1_official.txt"
+    },
+    {
+      "input": "Q3/input/q3_input2.txt",
+      "output": "Q3/output/q3_output2.txt"
+    },
+    {
+      "input": "Q3/input/q3_input2_official.txt",
+      "output": "Q3/output/q3_output2_official.txt"
+    },
+    {
+      "input": "Q3/input/q3_input3.txt",
+      "output": "Q3/output/q3_output3.txt"
+    },
+    {
+      "input": "Q3/input/q3_input4.txt",
+      "output": "Q3/output/q3_output4.txt"
+    },
+    {
+      "input": "Q3/input/q3_input5.txt",
+      "output": "Q3/output/q3_output5.txt"
+    },
+    {
+      "input": "Q3/input/q3_input6.txt",
+      "output": "Q3/output/q3_output6.txt"
+    },
+    {
+      "input": "Q3/input/q3_input7.txt",
+      "output": "Q3/output/q3_output7.txt"
+    },
+    {
+      "input": "Q3/input/q3_input8.txt",
+      "output": "Q3/output/q3_output8.txt"
+    },
+    {
+      "input": "Q3/input/q3_input9.txt",
+      "output": "Q3/output/q3_output9.txt"
+    }
+  ],
+  "q4_tests": [
+    {
+      "input": "Q4/input/q4_input1.txt",
+      "output": "Q4/output/q4_output1.txt"
+    },
+    {
+      "input": "Q4/input/q4_input1_official.txt",
+      "output": "Q4/output/q4_output1_official.txt"
+    },
+    {
+      "input": "Q4/input/q4_input2.txt",
+      "output": "Q4/output/q4_output2.txt"
+    },
+    {
+      "input": "Q4/input/q4_input2_official.txt",
+      "output": "Q4/output/q4_output2_official.txt"
+    },
+    {
+      "input": "Q4/input/q4_input3.txt",
+      "output": "Q4/output/q4_output3.txt"
+    },
+    {
+      "input": "Q4/input/q4_input3_official.txt",
+      "output": "Q4/output/q4_output3_official.txt"
+    },
+    {
+      "input": "Q4/input/q4_input4.txt",
+      "output": "Q4/output/q4_output4.txt"
+    },
+    {
+      "input": "Q4/input/q4_input5.txt",
+      "output": "Q4/output/q4_output5.txt"
+    },
+    {
+      "input": "Q4/input/q4_input6.txt",
+      "output": "Q4/output/q4_output6.txt"
+    },
+    {
+      "input": "Q4/input/q4_input7.txt",
+      "output": "Q4/output/q4_output7.txt"
+    },
+    {
+      "input": "Q4/input/q4_input8.txt",
+      "output": "Q4/output/q4_output8.txt"
+    },
+    {
+      "input": "Q4/input/q4_input9.txt",
+      "output": "Q4/output/q4_output9.txt"
+    }
+  ]
+}

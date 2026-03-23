@@ -1,0 +1,22 @@
+{
+  "Q1": [
+    {"name": "q1_input1", "executable": "hw5_q1", "input": "hw5/HW5_tester/Q1/input/q1_input1.txt", "output": "hw5/HW5_tester/Q1/output/q1_output1.txt"},
+    {"name": "q1_input2", "executable": "hw5_q1", "input": "hw5/HW5_tester/Q1/input/q1_input2.txt", "output": "hw5/HW5_tester/Q1/output/q1_output2.txt"},
+    {"name": "q1_input3", "executable": "hw5_q1", "input": "hw5/HW5_tester/Q1/input/q1_input3.txt", "output": "hw5/HW5_tester/Q1/output/q1_output3.txt"}
+  ],
+  "Q2": [
+    {"name": "swap_case_1", "executable": "hw5_q2", "input_parts": ["hw5/HW5_tester/Q2/input/q2_input1.txt", "hw5/HW5_tester/Q2/input/q2_input2.txt"], "output": "hw5/HW5_tester/Q2/output/q2_output1.txt"}
+  ],
+  "Q3": [
+    {"name": "q3_input1", "executable": "hw5_q3", "input": "hw5/HW5_tester/Q3/input/q3_input1.txt", "output": "hw5/HW5_tester/Q3/output/q3_output1.txt"},
+    {"name": "q3_input2", "executable": "hw5_q3", "input": "hw5/HW5_tester/Q3/input/q3_input2.txt", "output": "hw5/HW5_tester/Q3/output/q3_output2.txt"}
+  ],
+  "Q4": [
+    {"name": "q4_input1", "executable": "hw5_q4", "input": "hw5/HW5_tester/Q4/input/q4_input1.txt", "output": "hw5/HW5_tester/Q4/output/q4_output1.txt"},
+    {"name": "q4_input2", "executable": "hw5_q4", "input": "hw5/HW5_tester/Q4/input/q4_input2.txt", "output": "hw5/HW5_tester/Q4/output/q4_output2.txt"}
+  ],
+  "Q5": [
+    {"name": "q5_input1", "executable": "hw5_q5", "input": "hw5/HW5_tester/Q5/input/q5_input1.txt", "output": "hw5/HW5_tester/Q5/output/q5_output1.txt"},
+    {"name": "q5_input2", "executable": "hw5_q5", "input": "hw5/HW5_tester/Q5/input/q5_input2.txt", "output": "hw5/HW5_tester/Q5/output/q5_output2.txt"}
+  ]
+}

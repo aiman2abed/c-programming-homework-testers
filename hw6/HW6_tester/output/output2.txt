@@ -1,0 +1,4 @@
+Original Linked list:
+Input phase done 
+Modified Linked list:
+16 250 56 8 0 667 1 

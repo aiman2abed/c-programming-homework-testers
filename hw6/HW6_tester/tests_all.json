@@ -1,0 +1,6 @@
+{
+  "tests": [
+    {"input": "hw6/HW6_tester/input/input.txt",  "output": "hw6/HW6_tester/output/output.txt"},
+    {"input": "hw6/HW6_tester/input/input2.txt", "output": "hw6/HW6_tester/output/output2.txt"}
+  ]
+}

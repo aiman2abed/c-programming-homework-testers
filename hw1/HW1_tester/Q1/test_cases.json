@@ -1,0 +1,34 @@
+[
+    {
+        "input_file": "input/q1_input1_official.txt",
+        "expected_output_file": "output/q1_output1_official.txt"
+    },
+    {
+        "input_file": "input/q1_input2_official.txt",
+        "expected_output_file": "output/q1_output2_official.txt"
+    },
+    {
+        "input_file": "input/q1_input3.txt",
+        "expected_output_file": "output/q1_output3.txt"
+    },
+    {
+        "input_file": "input/q1_input4.txt",
+        "expected_output_file": "output/q1_output4.txt"
+    },
+    {
+        "input_file": "input/q1_input5.txt",
+        "expected_output_file": "output/q1_output5.txt"
+    },
+    {
+        "input_file": "input/q1_input6.txt",
+        "expected_output_file": "output/q1_output6.txt"
+    },
+    {
+        "input_file": "input/q1_input7.txt",
+        "expected_output_file": "output/q1_output7.txt"
+    },
+    {
+        "input_file": "input/q1_input8.txt",
+        "expected_output_file": "output/q1_output8.txt"
+    }
+]

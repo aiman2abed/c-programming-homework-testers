@@ -1,0 +1,21 @@
+Enter coordinates for point P (x y): 
+Enter coordinates for point Q (x y): 
+Enter coordinates for point R (x y): 
+---------------- Starting program --------------- 
+(0.10, 0.10)
+Triangle Properties:
+Perimeter: 1.74
+Area: 0.14
+The triangle isn't a right-angled triangle. 
+---------------- swap_points --------------- 
+Before swap_points: P={0.100000,0.100000} Q={0.700000,0.100000} 
+After swap_points: P={0.700000,0.100000} Q={0.100000,0.100000} 
+p address hasn't changed, q address hasn't changed 
+---------------- swap_pointers --------------- 
+Before swap_pointers: points[0] points to (0.700000, 0.100000)
+Before swap_pointers: points[1] points to (0.100000, 0.100000)
+After swap_pointers: points[0] points to (0.100000, 0.100000)
+points[0] address has changed 
+After swap_pointers: points[1] points to (0.700000, 0.100000)
+points[1] address has changed 
+---------------- End --------------- 

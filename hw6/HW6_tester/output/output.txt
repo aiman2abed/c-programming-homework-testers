@@ -1,0 +1,4 @@
+Original Linked list:
+Input phase done 
+Modified Linked list:
+1000 8 56 250 1 667 13 

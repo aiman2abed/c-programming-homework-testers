@@ -1,0 +1,2 @@
+110111 to decimal is: 55
+110111 to hexadecimal is: 37

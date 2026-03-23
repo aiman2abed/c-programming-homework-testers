@@ -1,0 +1,11 @@
+{
+  "tests": [
+    {"input": "hw4/HW4_tester/input/input.txt",  "output": "hw4/HW4_tester/output/output.txt"},
+    {"input": "hw4/HW4_tester/input/input1.txt", "output": "hw4/HW4_tester/output/output1.txt"},
+    {"input": "hw4/HW4_tester/input/input2.txt", "output": "hw4/HW4_tester/output/output2.txt"},
+    {"input": "hw4/HW4_tester/input/input3.txt", "output": "hw4/HW4_tester/output/output3.txt"},
+    {"input": "hw4/HW4_tester/input/input4.txt", "output": "hw4/HW4_tester/output/output4.txt"},
+    {"input": "hw4/HW4_tester/input/input5.txt", "output": "hw4/HW4_tester/output/output5.txt"},
+    {"input": "hw4/HW4_tester/input/input6.txt", "output": "hw4/HW4_tester/output/output6.txt"}
+  ]
+}

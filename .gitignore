@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+._*
+
+# editors
+.vscode/
+.idea/
+
+# python
+__pycache__/
+*.pyc
+
+# build outputs
+*.out
+*.exe
+a.out
+
+# temporary grading folders
+.submission/
+tmp/
+*.zip

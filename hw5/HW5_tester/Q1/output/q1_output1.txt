@@ -1,0 +1,2 @@
+000110100010 to decimal is: 418
+000110100010 to hexadecimal is: 1a2
