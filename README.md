@@ -1,4 +1,3 @@
-````md
 # HW Tester Archive
 
 This repository is a multi-homework testing archive for C programming assignments. It organizes test inputs, expected outputs, reference source files, and helper assets for several homework sets in one place.
